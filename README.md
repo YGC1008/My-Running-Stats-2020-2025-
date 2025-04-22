@@ -11,7 +11,7 @@ This Jupyter Notebook performs exploratory data analysis (EDA) on personal fitne
 - **Contents**: Each row represents a fitness activity (e.g., running, cycling).
 - **Important columns**:
   - `Date`
-  - `Distance` (in miles or km)
+  - `Distance` (in miles)
   - `Avg Pace` (min/mile)
   - `Avg HR` (heart rate)
   - `Calories`
