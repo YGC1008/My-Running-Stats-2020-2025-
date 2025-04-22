@@ -15,6 +15,7 @@ This Jupyter Notebook performs exploratory data analysis (EDA) on personal fitne
   - `Avg Pace` (min/mile)
   - `Avg HR` (heart rate)
   - `Calories`
+  - `Steps`
 ---
 
 ## 📊 Features & Analysis
@@ -32,6 +33,8 @@ This Jupyter Notebook performs exploratory data analysis (EDA) on personal fitne
   - Calories Burned
 - **Monthly Trends for 2024**:
   - Distance, Heart Rate, Calories (monthly breakdown)
+- **Steps Taken Overall**:
+  - Steps taken over time grouped by month.
 - **Cadence vs. Pace**:
   - Scatter plot showing correlation between `Avg Run Cadence` and `Avg Pace` with regression line.
 ---
